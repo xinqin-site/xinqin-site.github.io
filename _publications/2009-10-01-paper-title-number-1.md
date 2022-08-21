@@ -8,7 +8,7 @@ venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2207.07221'
 citation: 'Zheng, Ningkun, Xin Qin, Di Wu, Gabe Murtaugh, and Bolun Xu. "Energy Storage State-of-Charge Market Model." arXiv preprint arXiv:2207.07221 (2022).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+<!-- This paper is about the number 1. The number 2 is left for future work. -->
 
 [Download paper here](https://arxiv.org/abs/2207.07221)
 
