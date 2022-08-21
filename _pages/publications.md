@@ -1,12 +1,13 @@
 ---
 layout: archive
-<!-- title: "Publications" -->
+title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
 My papers can be found [here](https://scholar.google.com/citations?user=pm9i5OwAAAAJ).
 
 The pre-print files of my papers can be found [here](https://www.researchgate.net/profile/Xin-Qin-10).
+
 
 
 Preprints:
