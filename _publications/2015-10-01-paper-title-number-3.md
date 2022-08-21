@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Combined Electric and Heat System Testbeds for Power Flow Analysis and Economic Dispatch"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+<!-- permalink: https://ieeexplore.ieee.org/abstract/document/9265441 -->
+<!-- excerpt: 'This paper is about the number 3. The number 4 is left for future work.' -->
 date: 2015-10-01
 venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9265441'
+citation: 'Qin, Xin, Xinwei Shen, Ye Guo, Zhaoguang Pan, Qinglai Guo, and Hongbin Sun. "Combined electric and heat system testbeds for power flow analysis and economic dispatch." CSEE Journal of Power and Energy Systems 7, no. 1 (2020): 34-44.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+The data related to this paper can be download [here](https://drive.google.com/drive/folders/17l0_siCdRqMdG3wls0h57yQ9UZHyaBTF?usp=sharing).
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://www.researchgate.net/publication/346404310_Combined_electric_and_heat_system_testbeds_for_power_flow_analysis_and_economic_dispatch)
+
+Recommended citation: Qin, Xin, Xinwei Shen, Ye Guo, Zhaoguang Pan, Qinglai Guo, and Hongbin Sun. "Combined electric and heat system testbeds for power flow analysis and economic dispatch." CSEE Journal of Power and Energy Systems 7, no. 1 (2020): 34-44..
