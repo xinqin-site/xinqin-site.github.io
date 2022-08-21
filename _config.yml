@@ -33,6 +33,7 @@ staticman:
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
+  
   format                 : "yml"
   moderation             : true
   path                   : "_data/comments/{options.slug}"
@@ -179,7 +180,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  codes:
     output: true
     permalink: /:collection/:path/
 
@@ -239,6 +240,15 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+ # _codes
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+     
 
 # Sass/SCSS
 sass:
