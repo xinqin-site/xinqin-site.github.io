@@ -2,12 +2,12 @@
 layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+author_profile: false
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<!-- {% include base_path %} -->
 
 My CV is [here](https://xinqin-site.github.io/files/CV_Xin.pdf).
 
