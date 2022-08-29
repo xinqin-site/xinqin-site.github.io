@@ -7,6 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EHK48JT8ZH"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EHK48JT8ZH');
+</script>
+
 I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/), Department of Engineering, supervised by Prof. [Ioannis Lestas](http://www2.eng.cam.ac.uk/~icl20). My research interests include power systems with renewable integration, energy storage and electricity markets, and multi-energy systems. My CV is [here](https://xinqin-site.github.io/files/CV_Xin.pdf).
 
 Before enrolling in Cambridge, I obtained my MSc degree in Electrical Engineering in 2020 from [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm). From 2020 to 2021, I was an admitted PhD student and remote research assistant at [Columbia University](https://www.columbia.edu/) advised by Prof. [Bolun Xu](https://bolunxu.github.io/), and worked as a research assistant in [Tsinghua-UC Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/english/main.htm), Tsinghua University, advised by Prof. [Ye Guo](https://www.tbsi.edu.cn/english/2021/1011/c4138a29939/page.htm). 
@@ -21,4 +31,4 @@ Updates
 
 
 
-<a href="https://info.flagcounter.com/qrVf"><img src="https://s01.flagcounter.com/count2/qrVf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<!-- <a href="https://info.flagcounter.com/qrVf"><img src="https://s01.flagcounter.com/count2/qrVf/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a> -->
