@@ -7,15 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-EHK48JT8ZH"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-EHK48JT8ZH');
-</script>
 
 I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/), Department of Engineering, supervised by Prof. [Ioannis Lestas](http://www2.eng.cam.ac.uk/~icl20). My research interests include power systems with renewable integration, energy storage and electricity markets, and multi-energy systems. My CV is [here](https://xinqin-site.github.io/files/CV_Xin.pdf).
 
