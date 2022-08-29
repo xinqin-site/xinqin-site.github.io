@@ -316,3 +316,6 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-cayman
+
+# Google Analytics
+google_analytics: G-EHK48JT8ZH
