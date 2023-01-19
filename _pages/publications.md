@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-My publication list can be found on [Google Scholar](https://scholar.google.com/citations?user=pm9i5OwAAAAJ).
+[Google Scholar](https://scholar.google.com/citations?user=pm9i5OwAAAAJ).
 
-The preprint files of my papers can be found on [ResearchGate](https://www.researchgate.net/profile/Xin-Qin-10).
+The preprint files of my papers can also be found on [ResearchGate](https://www.researchgate.net/profile/Xin-Qin-10).
 
 
 
