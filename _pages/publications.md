@@ -18,7 +18,7 @@ Preprints:
 
 Journal Papers:
 -----
-[J5] N. Zheng, X. Qin, D. Wu, G. Murtaugh, B. Xu. Energy Storage State-of-Charge Market Model. IEEE Transactions on Energy Markets, Policy and Regulation, 2022. (Accepted) \[[Preprint](https://arxiv.org/pdf/2207.07221.pdf)\]
+[J5] N. Zheng, X. Qin, D. Wu, G. Murtaugh, B. Xu. Energy Storage State-of-Charge Market Model. IEEE Transactions on Energy Markets, Policy and Regulation, 2023 (Accepted). \[[Preprint](https://arxiv.org/pdf/2207.07221.pdf)\]
 
 [J4] X. Qin, Y. Guo, X. Shen, H. Sun. Increasing flexibility of combined heat and power systems through optimal dispatch with variable mass flow. IEEE Transactions on Sustainable Energy, 2022. \[[Preprint](https://www.researchgate.net/publication/338401377_Increasing_the_Flexibility_of_Combined_Heat_and_Power_Systems_through_Optimal_Dispatch_with_Variable_Mass_Flow)\] \[[Published](https://ieeexplore.ieee.org/abstract/document/9677907)\]
 
