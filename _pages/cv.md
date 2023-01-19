@@ -9,7 +9,7 @@ redirect_from:
 
 <!-- {% include base_path %} -->
 
-My CV is [here](https://xinqin-site.github.io/files/CV_Xin.pdf).
+My CV is [here](https://xinqin-site.github.io/files/CV_Xin_Qin.pdf).
 
 <!-- Combined Electric and Heat System Testbeds
 ======
