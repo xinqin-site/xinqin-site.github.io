@@ -18,7 +18,7 @@ Preprints:
 
 Journal Papers:
 -----
-[J6] X. Qin, B. Xu, I. Lestas, Y. Guo, and H. Sun. The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization. Accepted.  _Joule_, 2023.
+[J6] X. Qin, B. Xu, I. Lestas, Y. Guo, and H. Sun. The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization. _Joule_, 2023 (Accepted).
 
 [J5] N. Zheng, X. Qin, D. Wu, G. Murtaugh, B. Xu. Energy Storage State-of-Charge Market Model. _IEEE Transactions on Energy Markets, Policy and Regulation_, 2023. \[[Preprint](https://arxiv.org/pdf/2207.07221.pdf)\]
 
