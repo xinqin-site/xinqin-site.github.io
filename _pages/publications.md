@@ -8,7 +8,7 @@ author_profile: true
 [Google Scholar](https://scholar.google.com/citations?user=pm9i5OwAAAAJ).
 
 
-We are committed to supporting open-source programs. The pre-print versions of our paper can be accessed on [ResearchGate](https://www.researchgate.net/profile/Xin-Qin-10) following the rules of publishers.
+We are committed to supporting open-source programs. The pre-print version of our papers can be accessed on [ResearchGate](https://www.researchgate.net/profile/Xin-Qin-10) following the rules of publishers.
 
 
 
