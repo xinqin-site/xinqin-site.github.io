@@ -16,15 +16,15 @@ Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 
 
 Updates
 ======
-2023/05: Our paper entitled _The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization_ has been accepted by **Joule**!
+2023/05: Our paper entitled "The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization" has been accepted by _Joule_.
 
 2023/04: Honored to receive the _CSEE JPES Excellent Paper Award_ for our paper "[Combined Electric and Heat System Testbeds for Power Flow Analysis and Economic Dispatch](https://ieeexplore.ieee.org/document/9265441)".
 
-2023/01: Our paper entitled "[Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf)" has been accepted by IEEE Transactions on Energy Markets, Policy and Regulation.
+2023/01: Our paper entitled "[Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf)" has been accepted by _IEEE Transactions on Energy Markets, Policy and Regulation_.
 
 2022/07: Our pre-print paper on energy storage entitled "[Energy Storage State-of-Charge Market Model](https://arxiv.org/pdf/2207.07221.pdf)" has been available online. 
 
-2022/02: Our paper on nonconvex optimization entitled "[Increasing flexibility of combined heat and power systems through optimal dispatch with variable mass flow](https://ieeexplore.ieee.org/abstract/document/9677907)" has been accepted by IEEE Transactions on Sustainable Energy.
+2022/02: Our paper on nonconvex optimization entitled "[Increasing flexibility of combined heat and power systems through optimal dispatch with variable mass flow](https://ieeexplore.ieee.org/abstract/document/9677907)" has been accepted by _IEEE Transactions on Sustainable Energy_.
 
 
 
