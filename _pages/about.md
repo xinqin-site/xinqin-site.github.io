@@ -16,7 +16,7 @@ Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 
 
 Updates
 ======
-2023/05: Our paper entitled "The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization" has been accepted by _Joule_.
+2023/05: Our paper entitled "The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization" has been accepted by _Joule_ [IF: 46.048 (2022)].
 
 2023/04: Honored to receive the _CSEE JPES Excellent Paper Award_ for our paper "[Combined Electric and Heat System Testbeds for Power Flow Analysis and Economic Dispatch](https://ieeexplore.ieee.org/document/9265441)".
 
