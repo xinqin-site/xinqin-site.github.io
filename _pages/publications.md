@@ -18,6 +18,10 @@ Preprints:
 <!-- [P1] N. Zheng, X. Qin, D. Wu, G. Murtaugh, B. Xu. Energy Storage State-of-Charge Market Model. itarXiv preprint arXiv: 2201.03421 (under review by IEEE Transactions on Energy Markets, Policy and Regulation), 2022. \[[Preprint](https://arxiv.org/pdf/2207.07221.pdf)\] -->
 
 
+Degree Thesis:
+-----
+[D1] X. Qin. [Power Flow Analysis and Optimization for Combined Heat and Power Systems Considering Different Time Scales of Electricity and Heat](https://xinqin-site.github.io/files/Xin_MasterThesis_2020.pdf). Master’s thesis, _Tsinghua University_, 2020.
+
 Journal Papers:
 -----
 [J6] X. Qin, B. Xu, I. Lestas, Y. Guo, and H. Sun. The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization. _Joule_, 2023 (Accepted).
