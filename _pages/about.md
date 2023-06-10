@@ -16,6 +16,8 @@ Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 
 
 Updates
 ======
+2023/06: I have made my master's thesis "[Power Flow Analysis and Optimization for Combined Heat and Power Systems Considering Different Time Scales of Electricity and Heat](https://xinqin-site.github.io/files/CV_Xin_Qin.pdf)" available online.
+
 2023/05: Our paper entitled "The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization" has been accepted by _Joule_ (IF: 46.048).
 
 2023/04: Honored to receive the _CSEE JPES Excellent Paper Award_ for our paper "[Combined Electric and Heat System Testbeds for Power Flow Analysis and Economic Dispatch](https://ieeexplore.ieee.org/document/9265441)".
