@@ -16,7 +16,6 @@ Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 
 
 Updates
 ======
-2023/06: I have made my master's thesis "[Power Flow Analysis and Optimization for Combined Heat and Power Systems Considering Different Time Scales of Electricity and Heat](https://xinqin-site.github.io/files/Xin_MasterThesis_2020.pdf)" available online.
 
 2023/05: Our paper entitled "[The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fauthors.elsevier.com%2Fc%2F1hDJf925JENli6&data=05%7C01%7Cxq234%40universityofcambridgecloud.onmicrosoft.com%7C1861a338ae824d51718e08db682e6162%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638218321199123265%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5FjOmMyBMw8hMctp7lKgmpgSfW6dAinRj7mMc4gK0u4%3D&reserved=0)" has been accepted by _Joule_ (IF: 46.048).
 
