@@ -26,7 +26,7 @@ Journal Papers:
 -----
 [J6] X. Qin, B. Xu, I. Lestas, Y. Guo, and H. Sun. The Role of Electricity Market Design for Energy Storage in Cost-Efficient Decarbonization. _Joule_, 2023. [[Published](https://eur03.safelinks.protection.outlook.com/?url=https%3A%2F%2Fauthors.elsevier.com%2Fc%2F1hDJf925JENli6&data=05%7C01%7Cxq234%40universityofcambridgecloud.onmicrosoft.com%7C1861a338ae824d51718e08db682e6162%7C49a50445bdfa4b79ade3547b4f3986e9%7C1%7C0%7C638218321199123265%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=5FjOmMyBMw8hMctp7lKgmpgSfW6dAinRj7mMc4gK0u4%3D&reserved=0)\]
 
-[J5] N. Zheng, X. Qin, D. Wu, G. Murtaugh, B. Xu. Energy Storage State-of-Charge Market Model. _IEEE Transactions on Energy Markets, Policy and Regulation_, 2023. \[[Preprint](https://arxiv.org/pdf/2207.07221.pdf)\]
+[J5] N. Zheng, X. Qin, D. Wu, G. Murtaugh, B. Xu. Energy Storage State-of-Charge Market Model. _IEEE Transactions on Energy Markets, Policy and Regulation_, 2023. \[[Preprint](https://arxiv.org/pdf/2207.07221.pdf)\]\[[Published](https://ieeexplore.ieee.org/abstract/document/10021874)\]
 
 [J4] X. Qin, Y. Guo, X. Shen, H. Sun. Increasing flexibility of combined heat and power systems through optimal dispatch with variable mass flow. _IEEE Transactions on Sustainable Energy_, 2022. \[[Preprint](https://www.researchgate.net/publication/338401377_Increasing_the_Flexibility_of_Combined_Heat_and_Power_Systems_through_Optimal_Dispatch_with_Variable_Mass_Flow)\] \[[Published](https://ieeexplore.ieee.org/abstract/document/9677907)\]
 
