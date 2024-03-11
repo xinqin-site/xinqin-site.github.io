@@ -17,6 +17,8 @@ Preprints:
 -----
 <!-- [P1] N. Zheng, X. Qin, D. Wu, G. Murtaugh, B. Xu. Energy Storage State-of-Charge Market Model. itarXiv preprint arXiv: 2201.03421 (under review by IEEE Transactions on Energy Markets, Policy and Regulation), 2022. \[[Preprint](https://arxiv.org/pdf/2207.07221.pdf)\] -->
 
+[P1] X. Qin, I. Lestas, B. Xu. Economic Capacity Withholding Bounds of Competitive Energy Storage Bidders, 2024. \[[Preprint](http://dx.doi.org/10.13140/RG.2.2.14286.06720)\] 
+
 
 Degree Thesis:
 -----
