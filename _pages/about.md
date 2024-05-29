@@ -10,7 +10,7 @@ redirect_from:
 
 I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/), Department of Engineering, supervised by Prof. [Ioannis Lestas](https://www.eng.cam.ac.uk/profiles/icl20). My research interests include power system control and optimization, energy storage and electricity markets, and multi-energy systems. My CV is [here](https://xinqin-site.github.io/files/CV_Xin_Qin.pdf).
 
-Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 2020 from [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm). From 2020 to 2021, I was an admitted PhD student and remote research assistant at [Columbia University](https://www.columbia.edu/) advised by Prof. [Bolun Xu](https://bolunxu.github.io/), and worked as a research assistant in Tsinghua-UC Berkeley Shenzhen Institute, Tsinghua University, advised by Prof. [Ye Guo](https://www.tbsi.edu.cn/gy_en/main.htm). 
+Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 2020 from [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm). From 2020 to 2021, I was an admitted PhD student and remote research assistant at [Columbia University](https://www.columbia.edu/) advised by Prof. [Bolun Xu](https://bolunxu.github.io/), and worked as a research assistant in Tsinghua-UC Berkeley Shenzhen Institute, Tsinghua University, advised by Prof. [Ye Guo](https://www.sigs.tsinghua.edu.cn/gy_en/main.htm). 
 
  
 
