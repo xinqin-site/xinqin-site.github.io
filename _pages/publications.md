@@ -41,6 +41,10 @@ Journal Papers:
 
 Peer-Reviewed Conference Papers:
 -----
+[C5] X. Qin, I. Lestas. Frequency Control and Power Sharing in Combined Heat and Power Networks. _2024 IEEE Conference on Decision and Control (CDC)_, IEEE, 2024 (Accepted).
+
+[C4] X. Qin, I. Lestas. Frequency Control and Power Sharing in Combined Heat and Power Networks with Heat Pump Participation. _26th International Symposium on Mathematical Theory of Networks and Systems (MTNS)_, 2024 (Abstract).
+
 [C3] R. Shi, X. Zhang, X. Qin, H. Sun. Optimal Heat Flow in District Heat Networks with Tree Topology: A Convex Approach. _2020 IEEE PES General Meeting_, IEEE, 2020. \[[Published](https://ieeexplore.ieee.org/abstract/document/9281460)\]
 
 [C2] X. Qin, X. Zhang, X. Shen, Y. Xu, M. Shahidehpour, H. Sun. Distributed Optimal Frequency Control for Integrated Energy Systems with Electricity and Heat. _2019 IEEE PES General Meeting_, IEEE, 2019. \[[Preprint](https://www.researchgate.net/publication/337560123_Distributed_Optimal_Frequency_Control_for_Integrated_Energy_Systems_with_Electricity_and_Heat)\] \[[Published](https://ieeexplore.ieee.org/abstract/document/8973847)\]
