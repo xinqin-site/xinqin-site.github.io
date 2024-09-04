@@ -16,6 +16,7 @@ Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 
 
 Updates
 ======
+2024/07: Our paper on frequency control entitled "Frequency Control and Power Sharing in Combined Heat and Power Networks." has been accepted on 2024 IEEE Conference on Decision and Control (CDC). 
 
 2024/03: Our pre-print paper on energy storage entitled "[Economic Capacity Withholding Bounds of Competitive Energy Storage Bidders](https://arxiv.org/abs/2403.05705)" has been available online. 
 
