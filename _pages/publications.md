@@ -41,7 +41,7 @@ Journal Papers:
 
 Peer-Reviewed Conference Papers:
 -----
-[C5] X. Qin, I. Lestas. Frequency Control and Power Sharing in Combined Heat and Power Networks. _2024 IEEE Conference on Decision and Control (CDC)_, IEEE, 2024 (Accepted). \[[Accepted version](https://xinqin-site.github.io/files/main_CDC_R6.pdf)\]
+[C5] X. Qin, I. Lestas. Frequency Control and Power Sharing in Combined Heat and Power Networks. _2024 IEEE Conference on Decision and Control (CDC)_, IEEE, 2024 (Accepted). 
 
 [C4] X. Qin, I. Lestas. Frequency Control and Power Sharing in Combined Heat and Power Networks with Heat Pump Participation. _26th International Symposium on Mathematical Theory of Networks and Systems (MTNS)_, 2024 (Abstract).
 
