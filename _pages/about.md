@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/), Department of Engineering, supervised by Prof. [Ioannis Lestas](https://www.eng.cam.ac.uk/profiles/icl20). My research interests include power system control and optimization, energy storage and electricity markets, and multi-energy systems. My CV is [here](https://xinqin-site.github.io/files/CV_Xin_Qin.pdf).
+I am a PhD student at the [University of Cambridge](https://www.cam.ac.uk/), Department of Engineering, supervised by Prof. [Ioannis Lestas](https://www.eng.cam.ac.uk/profiles/icl20). I am dedicated to achieving affordable energy system decarbonization with innovative control approaches.  My research interests encompass a wide array of compelling topics, including control and optimization of smart grids, energy storage and electricity markets, and multi-energy systems. My CV is [here](https://xinqin-site.github.io/files/CV_Xin_Qin.pdf).
 
-Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 2020 from [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm). From 2020 to 2021, I was an admitted PhD student and remote research assistant at [Columbia University](https://www.columbia.edu/) advised by Prof. [Bolun Xu](https://bolunxu.github.io/), and worked as a research assistant in Tsinghua-UC Berkeley Shenzhen Institute, Tsinghua University, advised by Prof. [Ye Guo](https://www.sigs.tsinghua.edu.cn/gy_en/main.htm). 
+Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 2020 from [Tsinghua University](https://www.tsinghua.edu.cn/en/), supervised by Prof. [Hongbin Sun](https://www.eea.tsinghua.edu.cn/en/faculties/shb.htm). From 2020 to 2021, I was an admitted PhD student and remote research assistant of [Columbia University](https://www.columbia.edu/) advised by Prof. [Bolun Xu](https://bolunxu.github.io/), and worked as a research assistant in Tsinghua-UC Berkeley Shenzhen Institute, Tsinghua University, advised by Prof. [Ye Guo](https://www.sigs.tsinghua.edu.cn/gy_en/main.htm). 
 
  
 
 Updates
 ======
-2024/07: Our paper on frequency control entitled "Frequency Control and Power Sharing in Combined Heat and Power Networks." has been accepted on 2024 IEEE Conference on Decision and Control (CDC). 
+2024/12: Our paper on frequency control entitled "[Frequency Control and Power Sharing in Combined Heat and Power Networks.](https://ieeexplore.ieee.org/abstract/document/10886869)" has been presented at the 2024 IEEE Conference on Decision and Control (CDC). 
 
 2024/03: Our pre-print paper on energy storage entitled "[Economic Capacity Withholding Bounds of Competitive Energy Storage Bidders](https://arxiv.org/abs/2403.05705)" has been available online. 
 
