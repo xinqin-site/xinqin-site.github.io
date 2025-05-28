@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shawn(Xin) Qin (秦鑫) / Home Page"
+title                    : "Shawn(Xin) Qin / Home Page"
 title_separator          : "-"
 name                     : &name "Shawn(Xin) Qin"
 description              : &description "personal description"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xin Qin"
+  name             : "Shawn(Xin) Qin"
   avatar           : "tignes.jpg"
   bio              : "PhD student in the University of Cambridge"
   location         : "Cambridge, United Kingdom"
