@@ -22,6 +22,16 @@ Comments: The following files are testbed data of the paper entitled _The Role o
 * [Plot code](https://github.com/Huskyseen/Storage_Market/tree/main/plot_code): This code is used for data analysis. It gives all figures shown in the main text of the paper.
 
 
+[#3] Code and Data for Frequency Control and Optimal Power Sharing in Combined Power and Heating Networks with Heat Pumps
+-------
+Comments: The following files are testbed data and simulation setting for the paper entitled _Code and Data for Frequency Control and Optimal Power Sharing in Combined Power and Heating Networks with Heat Pumps_. Note the revisions to the PST are needed for case 2.
+
+
+* [Case 1](https://github.com/Huskyseen/Heat_Pump/tree/main/Case1): 39-bus IEEE test system plus 4 heat areas.
+* [Case 2](https://github.com/Huskyseen/Heat_Pump/tree/main/Case2): PST 19 machine case.
+
+
+
 
 
 <!-- {% if site.talkmap_link == true %}
