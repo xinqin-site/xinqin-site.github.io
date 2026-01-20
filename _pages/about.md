@@ -16,6 +16,8 @@ Before joining Cambridge, I obtained my MSc degree in Electrical Engineering in 
 
 Updates
 ======
+2026/01: Our paper on heat pumps participating in frequency control entitled "[Frequency Control and Optimal Power Sharing in Combined Power and Heating Networks with Heat Pumps.](https://arxiv.org/pdf/2509.24051)" has been accepted by _IEEE Transactions on Power Systems_. Test system data and setting codes are available [here](https://github.com/Huskyseen/Heat_Pump). 
+
 2024/12: Our paper on frequency control entitled "[Frequency Control and Power Sharing in Combined Heat and Power Networks.](https://ieeexplore.ieee.org/abstract/document/10886869)" has been presented at the 2024 IEEE Conference on Decision and Control (CDC). 
 
 2024/03: Our pre-print paper on energy storage entitled "[Economic Capacity Withholding Bounds of Competitive Energy Storage Bidders](https://arxiv.org/abs/2403.05705)" has been available online. 
